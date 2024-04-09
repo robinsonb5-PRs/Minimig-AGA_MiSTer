@@ -1,3 +1,0 @@
-[submodule "rtl/fpga-toccata"]
-	path = rtl/fpga-toccata
-	url = https://github.com/ranzbak/fpga-toccata
